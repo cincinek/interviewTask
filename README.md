@@ -11,3 +11,6 @@ Where qty is the number of boxes in a given size.
 ## Possible improvements
 
 Add option for batch processing of orders, eg. read orders from csv and return dict with result for each order
+
+### Python version
+Python 3.8.5
